@@ -1,0 +1,10 @@
+mat-nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px; /* Optional: Add margin for spacing */
+  }
+  
+  a mat-list-item {
+    margin: 10px; /* Optional: Add margin between candidates */
+  }
+  
